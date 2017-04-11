@@ -1,2 +1,6 @@
 # hello-world
-Just a repository
+
+
+Hii Everyone,
+
+Thanuja here, I like angular.js
